@@ -9,3 +9,6 @@ https://colab.research.google.com/drive/1D_sedTbKSeCJVDo5ygUo9fPiRlnFzaIE?usp=sh
 
 You can also get the public dataset used in this tutorial from Kaggle:
 https://www.kaggle.com/techzizou/labeled-mask-dataset-yolo-darknet
+
+References:
+https://github.com/techzizou/yolov4-custom_Training
