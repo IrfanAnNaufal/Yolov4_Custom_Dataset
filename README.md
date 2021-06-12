@@ -6,3 +6,6 @@ This notebook will be using scaled-YOLOv4 (yolov4-csp) for this tutorial, the fa
 
 You can open the Google Colab notebook here:
 https://colab.research.google.com/drive/1D_sedTbKSeCJVDo5ygUo9fPiRlnFzaIE?usp=sharing
+
+You can also get the public dataset used in this tutorial from Kaggle:
+https://www.kaggle.com/techzizou/labeled-mask-dataset-yolo-darknet
